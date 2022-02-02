@@ -22,7 +22,7 @@ The Heroku dashboard that we create performs two main functions. Upon refreshing
 
  1. Get the repo!
 
-      * `git clone https://github.com/pileofscraps/Alchemy-Transfers-Tutorial`
+      * `git clone https://github.com/alchemyplatform/polygon-nft-finder.git`
 
 For all Heroku dependent documentation, refer to:
 https://devcenter.heroku.com/articles/getting-started-with-nodejs?singlepage=true
