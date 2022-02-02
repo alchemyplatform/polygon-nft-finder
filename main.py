@@ -8,7 +8,7 @@ import requests
 # https://composer.alchemyapi.io?composer_state=%7B%22chain%22%3A2%2C%22network%22%3A401%2C%22methodName%22%3A%22alchemy_getAssetTransfers%22%2C%22paramValues%22%3A%5B%7B%22excludeZeroValue%22%3Atrue%2C%22fromBlock%22%3A%220x1664765%22%2C%22toAddress%22%3A%220xce90a7949bb78892f159f428d0dc23a8e3584d75%22%2C%22contractAddresses%22%3A%22%22%2C%22fromAddress%22%3A%220x0000000000000000000000000000000000000000%22%2C%22category%22%3A%5B%22erc721%22%5D%2C%22toBlock%22%3A%22%22%2C%22maxCount%22%3A%22%22%7D%5D%7D
 
 try:
-    ALCHEMY_KEY = "Rt4_MeHNZEE8mQWVi9Ct-uSppHNSDmOG"
+    ALCHEMY_KEY = "YOUR ALCHEMY KEY!"
 except:
     print("Configure your Alchemy Key correctly as an environment variable or simply paste it as a string within the try statement")
 
