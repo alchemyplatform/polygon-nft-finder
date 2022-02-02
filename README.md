@@ -59,5 +59,9 @@ Once we have created the app and pointed it towards the appropriate network, we'
       * Run `git add .`
       * Run `git commit -m "added Alchemy keys"`
       * Run `git push heroku master` to push and deploy your heroku app.
+ 
+ Your site should look like this! 
+ 
+ ![app](/nft-finder-background.png)
 
 🎉 Congratulations on your dApp deployment! Feel free to edit your app, change its behavior, or make the frontend more spiffy!
